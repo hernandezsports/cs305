@@ -1,9 +1,9 @@
 # cs305
 ** Version 1.0
 
-Sample readme for NAU CS305 repository module 6 project
+Sample readme for CS305 in NAU
 
 ---
-## LIcense & Copyright 
+## License & Copyright 
 
-Steven Hernandez, Northern Arizona University CS
+Adriel Reyes, Northern Arizona University CS
