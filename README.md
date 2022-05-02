@@ -3,6 +3,10 @@
 
 Sample readme for CS305 in NAU
 
+# New Module
+
+Example module subheader
+
 ---
 ## License & Copyright 
 
