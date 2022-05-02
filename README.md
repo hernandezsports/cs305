@@ -3,6 +3,10 @@
 
 Sample readme for NAU CS305 repository module 6 project
 
+# New Module
+
+Example module subheader
+
 ---
 ## LIcense & Copyright 
 
