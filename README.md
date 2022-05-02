@@ -8,3 +8,4 @@ Sample readme for CS305 in NAU
 
 Adriel Reyes, Northern Arizona University CS
 Steven Hernandez NAU srh352
+Jacob Lopez   NAU    jgl94
